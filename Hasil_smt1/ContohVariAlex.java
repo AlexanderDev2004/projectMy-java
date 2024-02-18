@@ -1,4 +1,5 @@
-public class ContohVari03 {
+package Hasil_smt1;
+public class ContohVariAlex {
 
     public static void main(String[] args) {
         String HobbySayaAdalah = "Olahraga";

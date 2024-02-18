@@ -1,3 +1,4 @@
+package Hasil_smt1;
 public class AlexTD {
 
     public static void main(String[] args) {

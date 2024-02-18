@@ -1,4 +1,5 @@
-public class ContohTipeData03 {
+package Hasil_smt1;
+public class ContohTipeDataAlex {
 
     public static void main(String[] args) {
         char GologanganDarah =  'A';

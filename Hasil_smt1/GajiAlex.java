@@ -1,5 +1,6 @@
+package Hasil_smt1;
 import java.util.Scanner;
-public class Gaji03 {
+public class GajiAlex {
 
     public static void main(String[] args) {
         Scanner Input = new Scanner(System.in);

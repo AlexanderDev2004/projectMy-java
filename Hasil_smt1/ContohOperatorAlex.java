@@ -1,4 +1,5 @@
-public class ContohOperator03 {
+package Hasil_smt1;
+public class ContohOperatorAlex {
 
     public static void main(String[] args) {
         int x = 10;

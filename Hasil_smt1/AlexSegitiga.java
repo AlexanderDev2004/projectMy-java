@@ -1,3 +1,4 @@
+package Hasil_smt1;
 import java.util.Scanner;
 public class AlexSegitiga {
 

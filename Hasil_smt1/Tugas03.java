@@ -1,3 +1,4 @@
+package Hasil_smt1;
 /*
  * Tugas03 
  */
